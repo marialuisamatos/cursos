@@ -1,0 +1,13 @@
+Nova versão
+lts/jod -> v22.20.0
+
+versão que estou usando
+lts/jod -> v22.20.0 
+lts/hydrogen -> v18.20.8
+
+O RC significa Run Commands
+.nmvrc
+.bashrc
+.vimrc
+.npmrc 
+
